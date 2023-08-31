@@ -8,3 +8,5 @@ This is the third time!
 Now, making changes before the Fourth one!
 
 Fourth time! Ok
+
+Great! Now I have both changes in the main file!
